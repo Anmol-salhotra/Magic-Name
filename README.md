@@ -33,7 +33,8 @@
 
 ## **Author**
 **Anmol Salhotra**  
-> Teen Coder | Web Designer | Fun Developer
+> Teen Coder | Web Designer | Fun Developer  
+> [**Visit My Website**](https://anmol-salhotra.github.io/Magic-Name/)
 
 ---
 
